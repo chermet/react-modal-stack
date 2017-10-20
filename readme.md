@@ -12,7 +12,7 @@ Allows modals to stack one on top of another and keeps modal fade right under to
 
 
 ```sh
-$ git clone https://github.com/3-4rm/react-modal-stack.git
+$ git clone https://github.com/chermet/react-modal-stack.git
 ```
 Then cd into react-modal-stack/demo
 ```sh
@@ -32,4 +32,4 @@ MIT
 
 [//]: #
 
-[Demo and usage]: <https://3-4rm.github.io/react-modal-stack/demo>
+[Demo and usage]: <https://chermet.github.io/react-modal-stack/demo>
